@@ -1,2 +1,2 @@
 # develobora.github.io
-Simple GitHug page.
+Simple GitHub page.
